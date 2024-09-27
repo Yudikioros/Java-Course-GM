@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+div.contenedor{
+    position: relative;
+    border: 3px dashed greenyellow;
+    width: 30%;
+    margin: auto;
+}
+
+img.imagen{
+    width: 100%;
+    opacity: 0.2;
+}
+
+div.centro{
+    position: absolute;
+    top: 50%;
+    /*border: 1px solid blue;*/
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

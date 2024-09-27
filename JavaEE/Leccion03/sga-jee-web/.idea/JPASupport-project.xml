@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoGeneratorSettingsState">
+    <option name="generateDefaultValue" value="true" />
+    <option name="ignoredFields">
+      <set>
+        <option value="" />
+      </set>
+    </option>
+    <option name="moduleName" value="sga-jee-web" />
+    <option name="moduleNameToSettings">
+      <map>
+        <entry key="sga-jee-web">
+          <value>
+            <ModuleSettings>
+              <option name="controllerParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="dtoParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="entityPackageName" value="mx.com.gm.sga.domain" />
+              <option name="entityParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="generateRepository" value="false" />
+              <option name="mapperXmlParentDirectory" value="D:\Curso Java IntelliJ\Java-Course-GM\JavaEE\Leccion03\sga-jee-web\src\main\resources" />
+              <option name="repositoryParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="serviceParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+              <option name="voParentDirectory" value="$PROJECT_DIR$/src/main/java" />
+            </ModuleSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="useFluidProgrammingStyle" value="true" />
+    <option name="useJakartaEE" value="true" />
+    <option name="useLombok" value="false" />
+  </component>
+  <component name="DatabaseSettingsState">
+    <option name="database" value="test" />
+    <option name="driverClass" value="com.mysql.cj.jdbc.Driver" />
+    <option name="driverPath" value="C:\mysql-driver\mysql-connector-j-8.4.0.jar" />
+    <option name="url" value="jdbc:mysql://{host}:{port}/{database}?useSSL=false&amp;useTimezone=true&amp;serverTimezone=UTC" />
+  </component>
+</project>

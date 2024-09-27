@@ -1,0 +1,24 @@
+/*Paleta de colores*/
+/*https://coolors.co/*/
+h1{
+    color: #e63946;
+    text-align: center;
+}
+
+
+p{
+    color: #457b9d;
+    background-color: #f1faee;
+    padding: 15px;
+    border: 10px solid #1d3557;
+    /*margin: 40px 10px;*/  /*Arriba-Abajo y Derecha e Izquierda*/
+    margin: auto 50px; /*Centrar*/
+    text-align: center;/*Centrar texto*/
+    /*Orden: Top, Right, Bottom y Left*/
+    /*
+    margin-top: 50px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    */
+}

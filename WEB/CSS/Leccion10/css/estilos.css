@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: crimson;
+}
+/*
+div.relativo{
+    max-width: 300px;
+    height: 200px;
+    position: relative;
+    top: 10px;
+    left: 100px;
+    border: 3px solid cornflowerblue;
+}
+*/
+div{
+    position: sticky; /*Static, relative, fixed, absolute, sticky*/
+    position: -webkit-sticky; /*Navegador safari*/
+    top: 0;
+    border: 3px solid firebrick;
+}

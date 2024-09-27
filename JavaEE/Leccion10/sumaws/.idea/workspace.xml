@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="sumaws:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce7e6f35-9ad8-48f0-8bbf-f37d83aba786" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV1/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV2/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/resources/jsf.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/resources/mensajes.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV3/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV4/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV5/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV6/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV7/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/java/beans/helper/ColoniaHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/java/beans/model/Colonia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV8/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/java/beans/backing/VacanteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/java/beans/helper/ColoniaHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/java/beans/lifecycle/DebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/java/beans/model/Candidato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/java/beans/model/Colonia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/resources/jsf_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/resources/jsf_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/resources/mensajes_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/resources/mensajes_es.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/WEB-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/WEB-INF/plantillas/plantilla.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/exito.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/fallo.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/index.xhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/resources/css/estilos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/resources/images/img01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JSF/BolsaTrabajoV9/src/main/webapp/resources/images/img02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion01/HolaMundoJavaEE/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion01/HolaMundoJavaEE/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion01/HolaMundoJavaEE/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion01/HolaMundoJavaEE/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion01/HolaMundoJavaEE/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/HolaMundoEJB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/HolaMundoEJB/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/HolaMundoEJB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/HolaMundoEJB/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/Sga-jee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/Sga-jee/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/Sga-jee/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/Sga-jee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/Sga-jee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/data/PersonaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/data/PersonaDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaServiceRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/java/mx/com/gm/sga/web/PersonaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion02/sga-jee-web/src/main/webapp/listadoPersonas.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/HolaMundoJPA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/HolaMundoJPA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/HolaMundoJPA/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/HolaMundoJPA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/HolaMundoJPA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/data/PersonaDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/data/PersonaDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/service/PersonaServiceRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/java/mx/com/gm/sga/web/PersonaServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion03/sga-jee-web/src/main/webapp/listadoPersonas.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion04/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion04/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion05/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion05/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion05/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion05/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/sga-jee-web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/sga-jee-web/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee-web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee-web/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/sga-jee/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion09/sga-jee-web/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion09/sga-jee-web/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClienteSumaWs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClienteSumaWs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClienteSumaWs/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClienteSumaWs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ClienteSumaWs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/ServicioSumarImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/ServicioSumarWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/local-password" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/local-password" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/pid.prev" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/config/pid.prev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/logs/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/logs/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle0/last.java.version" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle0/last.java.version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle128/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle128/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle143/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle143/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle202/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle202/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle251/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle251/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle252/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle252/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle356/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle356/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle385/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle385/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle41/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle41/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle413/bundle.info" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle413/bundle.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/src/main/webapp/WEB-INF/faces-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/src/main/webapp/WEB-INF/faces-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/src/main/webapp/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../JSF/HolaMundoJSF/src/main/webapp/index.xhtml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2gsmzQ66bBZH2JwIhDs7H9BGvCv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTFeaturesSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Curso Java IntelliJ\Java-Course-GM\JavaEE\Leccion10\sumaws\src\main\java\beans" />
+      <recent name="D:\Curso Java IntelliJ\Java-Course-GM\JavaEE\Leccion10\sumaws\src\main\java" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce7e6f35-9ad8-48f0-8bbf-f37d83aba786" name="Changes" comment="" />
+      <created>1716494920535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716494920535</updated>
+      <workItem from="1716494921543" duration="813000" />
+      <workItem from="1716495946254" duration="16000" />
+      <workItem from="1716495968101" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

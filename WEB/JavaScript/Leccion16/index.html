@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejempo DOM con JS</title>
+    <!-- <title>Ejempo formulario con JS</title> -->
+    <!-- <style>
+      .azul {
+        color: blue;
+      }
+    </style> -->
+  </head>
+  <body>
+    <h1 id="titulo">Manejor DOM con JS</h1>
+    <button onclick="mostrar()">Mostrar</button>
+    <br />
+
+    <script>
+      // document.write("Saludos desde JS");
+
+      function mostrar() {
+        document.getElementById("titulo").style.color = "red";
+
+        // document.getElementById("titulo").innerHTML += "<br>Nuevo titulo";
+        // document.getElementById("imagen").src = "http://globalmentoring.com.mx/imagenes/html5.png";
+      }
+    </script>
+
+    <!-- <form id="formulario">
+      Nombre: <input type="text" name="nombre" value="Juan" />
+      <br />
+      Apellido: <input type="text" name="apellido" value="Pérez" />
+      <br />
+    </form>
+    <button onclick="mostrarValores()">Mostrar</button>
+    <div id="valores"></div>
+
+    <script>
+      function mostrarValores() {
+        let formulario = document.forms["formulario"];
+        let texto = "";
+        // for(let elemento of formulario){
+        //     texto += elemento.value + '<br>';
+        // }
+        let nombre = formulario["nombre"];
+        let apellido = formulario["apellido"];
+        texto = nombre.value + "<br>" + apellido.value;
+        document.getElementById("valores").innerHTML = texto;
+      }
+    </script> -->
+
+    <!-- <h1 id="cabecero" class="azul">Ejemplo DOM con JS</h1>
+    <p class="azul">Saludos</p>
+    <p class="azul">Otro parrafo</p>
+    <script>
+      // let cabecero = document.getElementById("cabecero");
+      // console.log(`Cabecero: ${cabecero.innerHTML}`);
+      // let parrafo = document.getElementById("parrafo");
+      // console.log(`Parrafo: ${parrafo.innerHTML}`);
+      // parrafo.innerHTML = "Nuevo valor del párrafo";
+      // cabecero.innerHTML = "Nuevo valor de cabecero";
+      //   let parrafos = document.getElementsByTagName("p");
+      //   let elementos = document.getElementsByClassName("azul");
+      let elementos = document.querySelectorAll("p.azul");
+      console.log(`No. elementos: ${elementos.length}`);
+      //   for (let i = 0; i < elementos.length; i++) {
+      //     console.log(`${i} - ${elementos[i].innerHTML}`);
+      //   }
+      for (let elemento of elementos) {
+        console.log(`${elemento.innerHTML}`);
+      }
+    </script> -->
+  </body>
+</html>

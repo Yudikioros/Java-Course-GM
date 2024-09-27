@@ -1,0 +1,15 @@
+/*External CSS*/
+/*(!important) Dar prioridad de aplicación*/
+
+/* (*{})Selector universal*/
+
+/* Agrupar
+h1, h2, p, div{
+    color: crimson;
+    text-align: center;
+}
+*/
+
+p.centrar{
+    text-align: center;
+}

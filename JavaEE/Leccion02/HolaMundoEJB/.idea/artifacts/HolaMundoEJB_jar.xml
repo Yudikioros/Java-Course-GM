@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HolaMundoEJB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HolaMundoEJB_jar</output-path>
+    <root id="archive" name="HolaMundoEJB.jar">
+      <element id="module-output" name="HolaMundoEJB" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Datos de la Persona</title>
+</head>
+<body>
+<h1>Datos de la Persona</h1>
+<a th:href="@{/}">Inicio</a>
+<br>
+<br>
+<form th:action="@{/guardar}" method="post" th:object="${persona}">
+    <input type="hidden" name="idPersona" th:field="*{idPersona}">
+    <label for="nombre">Nombre:</label>
+    <input type="text" name="nombre" id="nombre" th:field="*{nombre}">
+    <br>
+    <label for="apellido">Apellido:</label>
+    <input type="text" name="nombre" id="apellido" th:field="*{apellido}">
+    <br>
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" th:field="*{email}">
+    <br>
+    <label for="telefono">Teléfono:</label>
+    <input type="tel" name="telefono" id="telefono" th:field="*{telefono}">
+    <br>
+    <input type="submit" value="Guardar" name="guardar">
+
+</form>
+</body>
+</html>

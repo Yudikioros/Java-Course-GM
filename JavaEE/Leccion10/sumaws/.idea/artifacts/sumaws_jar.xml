@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sumaws:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sumaws_jar</output-path>
+    <root id="archive" name="sumaws.jar">
+      <element id="module-output" name="sumaws" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/jws/jakarta.jws-api/3.0.0/jakarta.jws-api-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

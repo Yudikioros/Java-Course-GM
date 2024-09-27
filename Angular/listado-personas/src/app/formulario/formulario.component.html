@@ -1,0 +1,19 @@
+<form action="" class="item">
+  <input
+    type="text"
+    id="nombre"
+    name="nombre"
+    placeholder="Nombre"
+    [(ngModel)]="nombreInput"
+  />
+  <input
+    type="text"
+    id="apellido"
+    name="apellido"
+    placeholder="Apellido"
+    [(ngModel)]="apellidoInput"
+  />
+  <button type="submit" (click)="agregarPersona()">+</button>
+</form>
+<p style="color: red">{{ mensaje }}</p>
+

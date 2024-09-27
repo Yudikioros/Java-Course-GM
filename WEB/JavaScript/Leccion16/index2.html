@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejempo DOM con JS</title>
+  </head>
+  <!-- <body onload="entrar()"> -->
+  <body>
+    <!-- <h1 onclick="cambiarTexto(this)">Manejor DOM con JS</h1> -->
+    <!-- <h1 id="titulo" onmouseover="rojo(this)" onmouseout="azul(this)">Manejo de DOM con JS</h1> -->
+    <!-- <h1 id="titulo" onmousedown="rojo(this)" onmouseup="azul(this)" onclick="verde(this)">Manejo de DOM con JS</h1> -->
+    <h1>Manejo de DOM con JS</h1>
+    <br />
+    <!-- Nombre: <input type="text" onfocus="cambiar(this)" onblur="regresar(this)">
+    <br /><br />
+    Apellido: <input type="text" onfocus="cambiar(this)" onblur="regresar(this)"> -->
+    <!-- Nombre: <input type="text" name="" id="nombre" onchange="convertir(this)"> -->
+    <!-- <div id="mostrar"></div> -->
+    <!-- Nombre: <input type="text" id="nombre" /> <br /><br />
+    Apellido: <input type="text" id="apellido" /> -->
+    <form id="forma">
+      Nombre: <input type="text" id="nombre" /> <br /><br />
+      Apellido: <input type="text" id="apellido" />
+    </form>
+    <script>
+      //   function cambiarTexto(titulo) {
+      //     titulo.innerHTML = "Cambio de título";
+      //   }
+      // document.getElementById("titulo").onclick = cambiarTexto;
+      // function cambiarTexto(){
+      //     document.getElementById("mostrar").innerHTML = "Nuevo contenido";
+      // }
+      // function entrar(){
+      //   alert("Entrando a la página web");
+      //   let texto = "";
+      //   if(navigator.cookieEnabled){
+      //     texto = "Cookies habilitadas";
+      //   }else{
+      //     texto = "Cookies inhabilitadas";
+      //   }
+      //   document.getElementById("mostrar").innerHTML = texto;
+      // }
+      // function convertir(nombreInput){
+      //   nombreInput.value = nombreInput.value.toUpperCase();
+      // }
+      // function rojo(titulo){
+      //   console.log("OnmouseDown");
+      //   titulo.style.color = "red";
+      // }
+      // function azul(titulo){
+      //   console.log("OnmouseUp");
+      //   titulo.style.color = "blue";
+      // }
+      // function verde(titulo){
+      //   console.log("Onclick");
+      //   titulo.style.color = "green";
+      // }
+
+      // function cambiar(elementoInput){
+      //   elementoInput.style.background = "yellow";
+      // }
+      // function regresar(elementoInput){
+      //   elementoInput.style.background = "white";
+      // }
+      // document.getElementById("nombre").addEventListener("focus", (evento) => {
+      //   evento.target.style.background = "pink";
+      // });
+      // document.getElementById("nombre").addEventListener("blur", (evento) => {
+      //   evento.target.style.background = "";
+      // });
+      // document.getElementById("apellido").addEventListener("blur", regresar);
+      // document.getElementById("apellido").addEventListener("focus", cambiar);
+      // function cambiar(evento) {
+      //   let componente = evento.target;
+      //   componente.style.background = "yellow";
+      // }
+      // function regresar(evento) {
+      //   let componente = evento.target;
+      //   componente.style.background = "white";
+      // }
+
+      //Delegación de evento = useCapture (agregar el parámetro de true)
+      const forma = document.getElementById("forma");
+      forma.addEventListener("focus", (evento) => {
+        evento.target.style.background = "pink";
+      }, true);
+      forma.addEventListener("blur", (evento) => {
+        evento.target.style.background = "";
+      },true);
+    </script>
+  </body>
+</html>

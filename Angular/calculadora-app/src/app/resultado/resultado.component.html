@@ -1,0 +1,6 @@
+<p *ngIf="isNumber(resultadoHijo); else mensajeNaN">
+  Resultado: {{ resultadoHijo }}
+</p>
+<ng-template #mensajeNaN>
+  <p style="color: red;">El resultado no es un número</p>
+</ng-template>

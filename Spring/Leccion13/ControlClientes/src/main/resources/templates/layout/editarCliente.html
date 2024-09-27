@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+    <head>
+        <title>Editar Cliente</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+        <section th:fragment="editarCliente">
+            <form th:action="@{/guardar}" th:object="${persona}"
+                  method="POST" class="was-validated">
+                <input type="hidden" name="idPersona" th:field="*{idPersona}"/>
+                <section th:replace="~{layout/botonesEditar :: botonesEditar}"></section>
+                <div id="details">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h4>[[#{accion.editar}]]</h4>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="mb-3">
+                                            <label for="nombre" class="form-label">[[#{persona.nombre}]]</label>
+                                            <input type="text" class="form-control" name="nombre"
+                                                   required="true" th:field="*{nombre}" id="nombre"/>
+                                            <div class="invalid-feedback">
+                                                [[#{requerido.nombre}]]
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="apellido" class="form-label">[[#{persona.apellido}]]</label>
+                                            <input type="text" class="form-control" name="apellido"
+                                                   required="true" th:field="*{apellido}" id="apellido"/>
+                                            <div class="invalid-feedback">
+                                                [[#{requerido.apellido}]]
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="email" class="form-label">[[#{persona.email}]]</label>
+                                            <input type="email" class="form-control" name="email"
+                                                   required="true" th:field="*{email}" id="email"/>
+                                            <div class="invalid-feedback">
+                                                [[#{requerido.email}]]
+                                            </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="telefono" class="form-label">[[#{persona.telefono}]]</label>
+                                            <input type="text" class="form-control" name="telefono"
+                                                   th:field="*{telefono}" id="telefono"/>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="saldo" class="form-label">[[#{persona.saldo}]]</label>
+                                            <input type="number" class="form-control" name="saldo"
+                                                   required="true" th:field="*{saldo}" step="any" id="saldo"/>
+                                            <div class="invalid-feedback">
+                                                [[#{requerido.saldo}]]
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </section>
+    </body>
+</html>

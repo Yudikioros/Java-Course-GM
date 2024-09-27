@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<faces-config version="4.0" xmlns="https://jakarta.ee/xml/ns/jakartaee"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
+                                  https://jakarta.ee/xml/ns/jakartaee/web-facesconfig_4_0.xsd" >
+
+    <lifecycle>
+        <phase-listener>
+            beans.lifecycle.DebuggerListener
+        </phase-listener>
+    </lifecycle>
+
+    <application>
+        <locale-config>
+            <default-locale>es</default-locale>
+        </locale-config>
+        <resource-bundle>
+            <base-name>mensajes</base-name>
+            <var>msgs</var>
+        </resource-bundle>
+        <message-bundle>jsf</message-bundle>
+    </application>
+
+</faces-config>

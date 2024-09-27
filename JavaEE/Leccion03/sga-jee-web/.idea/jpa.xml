@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/mx/com/gm/sga/domain" />
+    <option name="renamerInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="6b7447c7-a3d5-4c4c-8711-0431cf6bb9bf" />
+  </component>
+  <component name="JpaPluginProjectSettings">
+    <option name="entityNameTemplate" value="${className}" />
+    <option name="generateJpaOnGetter" value="true" />
+    <option name="generateSerialVersionUID" value="true" />
+    <option name="useBuilderSetters" value="true" />
+    <option name="isLombokToString" value="true" />
+    <option name="scaffoldingLanguage" />
+  </component>
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit name="Default" persistenceXmlPath="src/main/resources/META-INF/persistence.xml">
+        <packages>
+          <package value="mx.com.gm.sga.domain" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>

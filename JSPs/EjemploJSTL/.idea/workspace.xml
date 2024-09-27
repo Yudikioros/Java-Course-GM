@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EjemploJSTL:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecdb1957-3f9c-4f15-83d7-435c388445cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EjemploExcelJSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExcelJSP/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExcelJSP/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExcelJSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExcelJSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExpressionLanguage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExpressionLanguage/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExpressionLanguage/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExpressionLanguage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploExpressionLanguage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionDinamica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionDinamica/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionDinamica/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionDinamica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionDinamica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionEstatica/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionEstatica/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionEstatica/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionEstatica/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EjemploInclusionEstatica/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJavaBeans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJavaBeans/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJavaBeans/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJavaBeans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ManejoJavaBeans/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml.bak" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/domain.xml.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/local-password" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/local-password" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/pid.prev" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/config/pid.prev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/logs/server.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/logs/server.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle100/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle103/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle107/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle111/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle112/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle115/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle124/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle131/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle133/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle136/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle14/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle145/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle147/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle153/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle156/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle158/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle160/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle170/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle180/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle184/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle189/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle194/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle204/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle208/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle212/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle218/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle220/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle224/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle232/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle246/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle249/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle25/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle256/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle258/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle261/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle270/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle273/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle278/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle281/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle283/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle294/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle297/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle30/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle306/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle308/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle40/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle48/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle52/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle60/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle76/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle82/version0.0/bundle.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AppServers/glassfish7/glassfish/domains/domain1/osgi-cache/felix/bundle87/version0.0/bundle.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2g1f4zJSeUYMgYN8W6bYzCvOB3c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;GlassFish Server.GlassFish 7.0.14.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MTFeaturesSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="GlassFish 7.0.14" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 7.0.14" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="EjemploJSTL:war exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="EjemploJSTL:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecdb1957-3f9c-4f15-83d7-435c388445cc" name="Changes" comment="" />
+      <created>1714869816746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714869816746</updated>
+      <workItem from="1714869817771" duration="1243000" />
+      <workItem from="1714932146998" duration="411000" />
+      <workItem from="1714952227115" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
